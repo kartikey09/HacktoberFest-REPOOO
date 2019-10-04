@@ -7,7 +7,7 @@ STEPS:
 2. Make 1 change ONLY.
 3. Scroll to the bottom and commit changes.
 4. Go to pull requests inside the repository(not on the right of search bar)
-5. Submit Pull request.
+5. Submit Pull request.dhbchsjbd
 6. Repeat steps 1-6 until you have submitted 4 PRs.
 7. Check your hacktoberfest profile for the number of eligible PRs.
 8. You should get a mail as well.
