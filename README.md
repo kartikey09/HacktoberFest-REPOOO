@@ -4,7 +4,7 @@ Send 4 pull requests to finish the task
 STEPS:
 
 1. Open your file. Select pencil tool from edit window on the right.
-2. Make 1 change ONLY.
+2. Make 1 change ONLY.windows 10
 3. Scroll to the bottom and commit changes.
 4. Go to pull requests inside the repository(not on the right of search bar)
 5. Submit Pull request.
